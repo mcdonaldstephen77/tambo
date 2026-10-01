@@ -14,6 +14,9 @@ docs/.source/
 apps/web/.source/
 packages/db/migrations/
 
+# Generated workflow YAML
+.github/workflows/
+
 # Other
 packages/ag-ui-mastra/
 .vscode/
